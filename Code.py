@@ -36,7 +36,7 @@ mors ={
     "9": "----.",
     "0": "-----"
 }
-inp=input("Enter the sentence\n")
+inp=input("Enter the sentence in LowerCase\n")
 length=len(inp)
 final=""
 
